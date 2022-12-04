@@ -14,7 +14,7 @@
 
 # Auction-Sphere
 
-Repository for CSC 510 Software Engineering project 1, created by Group 3: Shreya Maheshwari, Nandini Mundra, Palash Rathod, Tanvi Sinha, and Kartik Soni
+Repository for CSC 510 Software Engineering project 2, created by Group 14: Mithil Dani, Neha Kale, Rishikesh Yelne, Ritwik Vaidya, Vansh Mehta and Pradyumna Khawas
 
 Click on the image below to view the demo video of the project
 
@@ -22,14 +22,14 @@ Click on the image below to view the demo video of the project
 
 ## About Auction-Sphere
 
-Want to sell something you own in a bidding war? Want to snatch something you really want like a boss?
+Want to sell something you own in a bidding war? Want to snatch something you really want?
 Congratulations, you have come to the perfect place: the **Auction Sphere**
 
 <img src="./src/assets/Logo.png" width="400" height="300">
 
 Auction Sphere is an auctioning system where people can bid on exciting items and also put items up for sale. Every item has a bidding window, and the item goes to the highest bidder by the end of that window.
 
-On the products, people can view all the latest items being put up for sale and their respective highest bids. On the product details page, apart from product details, people can view the latest bids as well as the highest bid, and can also place a bid. It's upto the seller to decide the minimum price of the product, as well as bid increments.
+On the products page, people can view all the latest items being put up for sale and their respective highest bids. On the product details page, apart from product details, people can view the latest bids as well as the highest bid, and can also place a bid. It's upto the seller to decide the minimum price of the product, as well as bid increments.
 
 
 ## Built with
@@ -41,7 +41,7 @@ On the products, people can view all the latest items being put up for sale and 
   <br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /> Python
   <br/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" width="40" height="40" /> SQLite
+  <img src="https://commons.wikimedia.org/wiki/File:Postgresql_elephant.svg" width="40" height="40" /> PostgreSQL
   
 
 ## Project documentation
@@ -53,7 +53,7 @@ The `docs` folder incorporates all necessary documents and documentation in our 
 
 Code formatter: Prettier
 
-Tech stack: React.js, Flask, SQLite
+Tech stack: React.js, Flask, PostgreSQL
 
 ## To run our React application
 
@@ -87,12 +87,14 @@ We have a lot planned for the future! Completed tasks and future enhancements ca
 
 ## Group-3
 
-[Nandini Mundra](https://github.com/nandinimundra00)
+[Mithil Dani](https://github.com/mithildani)
 
-[Palash Rathod](https://github.com/palash27)
+[Neha Kale](https://github.com/nehakale8)
 
-[Shreya Maheshwari](https://github.com/ShreyaMaheshwari)
+[Rishikesh Yelne](https://github.com/rishikesh-yelne)
 
-[Tanvi Sinha](https://github.com/tanvi9sinha)
+[Ritwik Vaidya](https://github.com/ritwik4690)
 
-[Kartik Soni](https://github.com/kartikson1)
+[Vansh Mehta](https://github.com/vanshmehta-7)
+
+[Pradyumna Khawas](https://github.com/therealppk)
